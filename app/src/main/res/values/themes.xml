@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/malina_active</item>
+        <item name="colorAccent">@color/malina_active</item>
+    </style>
+
+    <style name="Theme.TestApp" parent="Base.Theme.TestApp" />
+</resources>
